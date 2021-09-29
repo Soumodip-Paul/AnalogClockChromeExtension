@@ -1,0 +1,12 @@
+{
+    "name": "Analog Clock",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "favicon_io/logo.png"
+    },
+    "icons": {
+        "128": "favicon_io/logo.png"
+    }
+}
